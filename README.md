@@ -1,14 +1,9 @@
-# Python-Django-E-Commerce
-## Hi there 👋 Am Musyoka Richard
-### I'm a Passionate Software Engineer
-- 🔭 I’m currently specializing on Android and Full-Stack Web  development
-- 👯 I’m looking to collaborate on Android and Machine Learning
-- 🤔 I’m looking for help with android Majorly Flutter and Kotlin
-- 💬 Ask me about How i started 
-- 📫 How to reach me: email: haimestoneritchie11@gmail.com
-- 😄 Pronouns: I prefer He
-- ⚡ Fun fact: Learning coding has stunning cognitive-related benefits, such as problem-solving, computational thinking, analytical thinking, creative thinking, leadership-related skills, and even teamwork.
-- 💪 I believe in the power of team collaboration 
-- 💻 You can checkout my repositories here: https://github.com/Richard-Musyoka/
--->
+# E-commerceWebsite
+This project deals with developing a Virtual website ‘E-commerce Website’. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process. The system is implemented using Python's web framework Django.
 
+1. Clone this repository into a folder on your computer
+2. Download Python
+3. Open terminal inside the folder with code.
+4. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
+5. Type python manage.py runserver to start a localhost server for the app.
+6. The API is started and now you can use the API routes to give requests.
